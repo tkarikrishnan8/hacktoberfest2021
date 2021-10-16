@@ -1,4 +1,4 @@
-#include <iostream> 
+#include <io> 
 using namespace std; 
 //function to find the majority element
 void findMajority(int arr[], int size) 
